@@ -1,0 +1,19 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+input {
+  display: block;
+  position: absolute;
+  margin: 0;
+  left: 500px;
+  top: 400px;
+  color: white;
+  background-color: grey;
+  border: 1px solid grey;
+  width: 50px;
+  height: 20px;
+}
